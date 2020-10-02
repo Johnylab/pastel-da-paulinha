@@ -1,4 +1,4 @@
-# pastel-da-paulinha
+# Pastel da Paulinha
 
 ## Cardápio:
 
