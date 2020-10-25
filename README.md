@@ -1,6 +1,6 @@
 # Pastel da Paulinha
 
-## Cardápio:
+## X-burguer
 
 X-Burger
 $7,00
@@ -11,7 +11,7 @@ $9,00
 2 Hambúrgueres, queijo e presunto.
 
 X-Burguer Duplo Egg
-$11,00
+$12,00
 2 Hambúrgueres, ovo, queijo e presunto.
 
 X-Burguer Duplo Bacon
@@ -23,8 +23,10 @@ $12,00
 3 Hambúrgueres, queijo e presunto.
 
 X-triplo Egg
-$14,00
+$15,00
 3 Hambúrgueres, ovo, queijo e presunto.
+
+## X-salada
 
 X-Salada
 $8,00
@@ -35,15 +37,17 @@ $11,00
 1 Hambúrguer, ovo, queijo, presunto, alface e tomate.
 
 X-Salada Duplo
-$11,00
+$12,00
 2 Hambúrgueres, queijo, presunto, alface e tomate.
 
+## Burguers diversos
+
 X-Calabresa
-$11,00
+$12,00
 1 Hambúrguer, calabresa, queijo, presunto, alface e tomate.
 
 X-Calabresa Egg
-$13,00
+$14,00
 1 Hambúrguer, Calabresa, ovo, queijo, presunto, alface e tomate.
 
 X-Bacon
@@ -51,7 +55,7 @@ $12,00
 1 Hambúrguer, bacon, queijo, presunto, alface e tomate.
 
 X-Bacon Egg
-$14,00
+$15,00
 1 Hambúrguer, bacon, ovo, queijo, presunto, alface e tomate.
 
 X-FRANGO
@@ -67,7 +71,7 @@ $21,00
 1 Hambúrguer, frango, calabresa, ovo, bacon, queijo, presunto, alface e tomate.
 
 
-## LANCHE NO PRATO
+## NO PRATO
 
 X-Salada Duplo
 $14,99
@@ -85,7 +89,7 @@ X-Tudo
 $29,99
 2 Hambúrgueres, frango, calabresa, ovo, bacon, queijo, presunto, alface e tomate.
 
-## Combo de lanches 
+## Combos 
 
 
 Combo kids
@@ -97,15 +101,17 @@ $12,99
 Combo casal
 2 x-salada
 Batata 300g
-Cheddar 
+Cheddar
 2 Dollynhas
 $32,99
 
 Combo amigos
 4x-Burguer
+Batata 300g
+Cheddar
 Dolly 2 Litros
 $45,99
-   
+
 Combo família
 6 x-burguer
 Batata 300g
@@ -115,13 +121,13 @@ $60,00
 
 TODOS OS LANCHES ACOMPANHAM!! Vinagrete,milho,ervilha e Batata palha.
 
-ACRÉSCIMO DE INGREDIENTES
+ACRÉSCIMOS
 
 Ovo, Hambúrguer, Cheddar e Catupiry
-$2,00
+$2,50
 
 Frango, Bacon, Queijo, Calabresa
-$3,00
+$4,00
 
 
 ## Porções
